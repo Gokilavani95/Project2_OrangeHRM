@@ -10,7 +10,7 @@ The framework automates OrangeHRM functionalities by simulating real user action
 [https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
 
 
-## Project Objectives
+## 🎯 Project Objectives
 
 The main objectives of this project are:
 
@@ -25,7 +25,7 @@ The main objectives of this project are:
 * Generate detailed HTML execution reports.
 * Store test results and actual results back into Excel.
 
-## Framework Architecture
+## 🏗️ Framework Architecture
 
 The project follows a layered automation framework:
 
@@ -50,7 +50,7 @@ Pytest HTML Reports
 Browser Reports
 
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Project2_OrangeHRM/
@@ -112,7 +112,7 @@ Project2_OrangeHRM/
 
 
 
-# Browser Automation with Playwright
+# 🌐 Browser Automation with Playwright
 
 Playwright is used to automate browser interactions.
 
@@ -121,7 +121,7 @@ The framework can be configured to execute tests in browsers such as:
 * Chromium
 * Microsoft Edge
 
-# Page Object Model (POM)
+# 🧱 Page Object Model (POM)
 
 The framework follows the **Page Object Model** design pattern.
 
@@ -152,7 +152,7 @@ Application
 
 ---
 
-# Pytest Framework
+# 🧪 Pytest Framework
 
 Pytest is used as the test execution framework.
 
@@ -184,7 +184,7 @@ The reports contain information such as:
 * Failure details
 * Execution environment information
 
-#  Test Result Management
+# 🔍 Test Result Management
 
 The framework maintains test results in both:
 
@@ -201,7 +201,7 @@ Used for storing:
 
 
 
-# Application Credentials
+# 🔐 Application Credentials
 
 The project uses the OrangeHRM demo application.
 
@@ -233,7 +233,7 @@ This framework provides:
 
 ---
 
-# Key Design Principles
+# 📌 Key Design Principles
 
 The project follows these automation principles:
 
